@@ -1,0 +1,13 @@
+username : epiz_24185558
+password : jo7yWRaK5QaN
+hostname : 	ftpupload.net
+port : 21
+
+ 	
+jo7yWRaK5QaN
+2T8TwepcmOcp#1fll)Gi
+
+'hostname' => 'sql208.freecluster.eu',
+	'username' => 'epiz_24185558',
+	'password' => 'jo7yWRaK5QaN',
+	'database' => 'epiz_24185558_db_franco',
